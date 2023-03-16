@@ -7,5 +7,5 @@ Aplicaremos Linear Regression a distintos datos aprovechando statsmodel y scikit
 
 > Código T4-4: Aplicamos una regresión lineal con un dataset de advertising(ADS) y la **librería** scikit-learn. 
 
-> Código T4-4: Aplicamos una regresión lineal con un dataset de Ecom Expense(ecom-expense) tratando las variables categoricas y la **librería** scikit-learn. 
+> Código T4-5: Aplicamos una regresión lineal con un dataset de Ecom Expense(ecom-expense) tratando las variables categoricas y la **librería** scikit-learn. 
 
